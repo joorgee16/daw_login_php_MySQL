@@ -10,8 +10,8 @@ header("Location: login.php");
 exit();
 }
 ?>
-<h2>Welcome</h2>
-<p>Introduce tu consulta</p>
+<h2>Welcome cambiado</h2>
+<p>texto nuevo</p>
 <form>
     <input type="text" id="consulta" name="consulta"
     <input type="submit" value="Consultar">
